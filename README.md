@@ -20,21 +20,21 @@ Average Open & Low by Ticker
   *Purpose: Compare baseline entry points and risks across stocks.
 
 Key KPIs (Top Section)
-  *Avg Volatility (%)
-  *Avg Close Price
-  *Avg Daily Return (%)
+  * Avg Volatility (%)
+  * Avg Close Price
+  * Avg Daily Return (%)
 
 Moving Average vs. Actual Price
-  *Purpose: Detect momentum, trend reversals, and entry/exit signals.
+ - Purpose: Detect momentum, trend reversals, and entry/exit signals.
 
 Volume by Each Day
-  *Purpose: Show investor activity and confirm market strength/weakness.
+  - Purpose: Show investor activity and confirm market strength/weakness.
 
 Stock Price Trend Comparison
-  *Purpose: Show historical price movement across companies.
+  - Purpose: Show historical price movement across companies.
 
 Trading Volume Comparison
-  *Purpose: Compare liquidity and investor interest across stocks.
+  * Purpose: Compare liquidity and investor interest across stocks.
 
 Volatility Comparison
   *Purpose: Assess risk and market stability over time.
