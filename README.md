@@ -53,7 +53,7 @@ The dashboard includes the following visuals:
 - **NFLX**: Most volatile and speculative → higher risk, short-term opportunities.  
 
 --- 
- <a href="https://github.com/Anjalikumariyes/Stock-Market-Analysis/blob/main/Analysis%20data.xlsx" alt="Dataset"> </a>
+- <a href = "https://github.com/Anjalikumariyes/Stock-Market-Analysis/blob/main/Analysis%20data.xlsx">Dataset</a>
 
 ---
 Stock Market Analysis Dashboard 
