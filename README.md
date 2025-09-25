@@ -1,4 +1,4 @@
-# Stock Market Analysis Dashboard  
+# Stock Market Analysis   
  (Business Analyst Internship Project)
  
 ## Executive Summary  
@@ -53,4 +53,8 @@ The dashboard includes the following visuals:
 - **NFLX**: Most volatile and speculative → higher risk, short-term opportunities.  
 
 --- 
+ <a href = " https://github.com/Anjalikumariyes/Stock-Market-Analysis/blob/main/Analysis%20data.xlsx"> Dataset</a>
 
+---
+Stock Market Analysis Dashboard 
+<img src = "https://github.com/Anjalikumariyes/Stock-Market-Analysis/blob/main/Stock-market-anlysis-dashboard.png" alt = "Overall-Report-view">
